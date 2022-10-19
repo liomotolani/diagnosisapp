@@ -1,2 +1,2 @@
 # diagnosisapp
-An application automatically diagnose patients symptoms 
+An application that automatically diagnose patients symptoms 
